@@ -54,7 +54,7 @@ To create a new Monero wallet, consult the Monero documentation:
 
 ```bash
 # Download the script
-wget https://raw.githubusercontent.com/Mik-TF/monerominer/main/monerominer.sh
+wget https://raw.githubusercontent.com/ucli-tools/monerominer/main/monerominer.sh
 
 # Install in system path
 bash monerominer.sh install
